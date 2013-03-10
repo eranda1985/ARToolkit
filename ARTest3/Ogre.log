@@ -1,0 +1,31 @@
+14:03:15: Creating resource group General
+14:03:15: Creating resource group Internal
+14:03:15: Creating resource group Autodetect
+14:03:15: SceneManagerFactory for type 'DefaultSceneManager' registered.
+14:03:15: Registering ResourceManager for type Material
+14:03:15: Registering ResourceManager for type Mesh
+14:03:15: Registering ResourceManager for type Skeleton
+14:03:15: MovableObjectFactory for type 'ParticleSystem' registered.
+14:03:15: OverlayElementFactory for type Panel registered.
+14:03:15: OverlayElementFactory for type BorderPanel registered.
+14:03:15: OverlayElementFactory for type TextArea registered.
+14:03:15: Registering ResourceManager for type Font
+14:03:15: ArchiveFactory for archive type FileSystem registered.
+14:03:15: ArchiveFactory for archive type Zip registered.
+14:03:15: DDS codec registering
+14:03:15: FreeImage version: 3.15.1
+14:03:15: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+14:03:15: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2,pfm,pct,pict,pic,3fr,arw,bay,bmq,cap,cine,cr2,crw,cs1,dc2,dcr,drf,dsc,dng,erf,fff,ia,iiq,k25,kc2,kdc,mdc,mef,mos,mrw,nef,nrw,orf,pef,ptx,pxn,qtk,raf,raw,rdc,rw2,rwl,rwz,sr2,srf,sti
+14:03:15: Registering ResourceManager for type HighLevelGpuProgram
+14:03:15: Registering ResourceManager for type Compositor
+14:03:15: MovableObjectFactory for type 'Entity' registered.
+14:03:15: MovableObjectFactory for type 'Light' registered.
+14:03:15: MovableObjectFactory for type 'BillboardSet' registered.
+14:03:15: MovableObjectFactory for type 'ManualObject' registered.
+14:03:15: MovableObjectFactory for type 'BillboardChain' registered.
+14:03:15: MovableObjectFactory for type 'RibbonTrail' registered.
+14:03:15: OGRE EXCEPTION(6:FileNotFoundException): 'plugins_d.cfg' file not found! in ConfigFile::load at ..\..\..\..\OgreMain\src\OgreConfigFile.cpp (line 83)
+14:03:15: plugins_d.cfg not found, automatic plugin loading disabled.
+14:03:15: *-*-* OGRE Initialising
+14:03:15: *-*-* Version 1.7.4 (Cthugha)
+14:03:18: OGRE EXCEPTION(6:FileNotFoundException): 'resources_d.cfg' file not found! in ConfigFile::load at ..\..\..\..\OgreMain\src\OgreConfigFile.cpp (line 83)
